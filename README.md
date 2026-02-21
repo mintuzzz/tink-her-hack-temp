@@ -2,27 +2,30 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [SheRiseX] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: CORE
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Akshitha S S] - [LOURDES MATHA COLLEGE OF SCIENCE AND TECHNOLOGY KUTTICHAL]
+- Member 2: [Aleena X] - [LOURDES MATHA COLLEGE OF SCIENCE AND TECHNOLOGY KUTTICHAL]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+SheRise X is a digital platform designed to empower women through structured learning, career support, and health guidance. It offers AI-assisted tools for resume building, freelance opportunities, and wellness tips, making personal and professional growth accessible. With interactive features and user-friendly design, SheRise X helps women confidently navigate education, work, and wellbeing in one place.
 
 ### The Problem statement
-[What problem are you solving?]
+Lack of structured digital empowerment: Many women struggle to find reliable guidance for career growth, freelancing, and skill development in one centralized platform.
 
-### The Solution
-[How are you solving it?]
+Limited access to health guidance: Quick, accessible wellness support is often unavailable, leaving women without timely advice for basic health concerns.
+
+Challenges in professional visibility: Building resumes, showcasing skills, and finding freelance opportunities can be confusing and time-consuming, especially for women balancing multiple responsibilities.
+
+### The SolutionBy providing a single platform with career resources, resume tools, freelance guides, and an AI health assistant, making access simple and fast for women.]
 
 ---
 
@@ -31,25 +34,25 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [HTML, CSS, JavaScript, Python]
+- Frameworks used: [Flask (for backend), Bootstrap (for responsive design)]
+- Libraries used: [axios (for API calls)]
+- Tools used: [VS Code, Git, GitHub, Chrome DevTools]
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [None]
+- Specifications: [Runs on standard computers or mobile devices with internet access]
+- Tools required: [Web browser, internet connection, code editor]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [AI Health Assistant: Provides instant wellness guidance and advice]
+- Feature 2: [Career & Resume Tools: Helps users build resumes and explore career options.]
+- Feature 3: [Freelance & Finance Support: Offers guidance on freelance opportunities and financial literacy]
+- Feature 4: []
 
 ---
 
@@ -83,13 +86,16 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]
+*Add captio<img width="1599" height="862" alt="ss1" src="https://github.com/user-attachments/assets/a9141043-f472-437b-aa4c-a7354b229c0f" />
+n explaining what this shows*
+
+![<img width="1600" height="858" alt="ss2" src="https://github.com/user-attachments/assets/8a15f90d-f545-43f4-b9b0-8b6f4b9b6df5" />
+]
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+!<img width="1600" height="859" alt="ss3" src="https://github.com/user-attachments/assets/d70d97a3-04e4-4177-be61-7828f4d0e086" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 #### Diagrams
@@ -361,7 +367,9 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/file/d/1wyE5FfupTc4sRlktq4Gg-xmA1Ruj7OmB/view?usp=drive_link
+
+video link here - YouTube, Google Drive, etc.]
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
@@ -372,14 +380,12 @@ python script.py -v --format json data.json
 
 ## AI Tools Used (Optional - For Transparency Bonus)
 
-If you used AI tools during development, document them here for transparency:
+chatgpt:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+**Tool Used:** [ChatGPT]
 
 **Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
+- code review
 
 **Key Prompts Used:**
 - "Create a REST API endpoint for user authentication"
@@ -400,9 +406,9 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- Aleena x:- Frontend development.
+- Akshitha S S:-Backend development.
+
 
 ---
 
