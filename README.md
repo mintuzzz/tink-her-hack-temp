@@ -13,7 +13,7 @@
 - Member 2: [Aleena X] - [LOURDES MATHA COLLEGE OF SCIENCE AND TECHNOLOGY KUTTICHAL]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://mintuzzz.github.io/SheRis-X/
 
 ### Project Description
 SheRise X is a digital platform designed to empower women through structured learning, career support, and health guidance. It offers AI-assisted tools for resume building, freelance opportunities, and wellness tips, making personal and professional growth accessible. With interactive features and user-friendly design, SheRise X helps women confidently navigate education, work, and wellbeing in one place.
